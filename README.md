@@ -36,9 +36,9 @@ How to create an Electrum financial wallet using Termux.💵💵
    Replace `<wallet-software-directory>` with the directory where the wallet software was cloned. For example:
    - Electrum: `cd electrum`
 
-👇👇
+👉👉
 ```cd electrum```
-👆👆
+👈👈
 
 5. Install the wallet software's dependencies:
    ```
