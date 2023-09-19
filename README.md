@@ -64,7 +64,7 @@ How to create an Electrum financial wallet using Termux.💵💵
      ```python3 -m venv .env 
   source .env/bin/activ ate   
      python -m pip install --upgrade pip
-     pip install <4.4.6>
+     pip install 4.4.6
      ```
 👆👆
 
