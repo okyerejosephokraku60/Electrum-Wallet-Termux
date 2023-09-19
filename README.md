@@ -51,7 +51,8 @@ How to create an Electrum financial wallet using Termux.💵💵
      ```
      python3 -m venv .env
      source .env/bin/activate
-     python -m pip install --upgrade pip
+     python -m pip install -- 
+     upgrade pip
      pip install <wallet-version>
      ```
 
@@ -66,13 +67,13 @@ How to create an Electrum financial wallet using Termux.💵💵
      ```
 👆👆
 
-     `To create a new Electrum wallet:`
+To create a new Electrum wallet:
      
 ```electrum create```
     
 
   
-     `Follow the instructions on the screen to set up your wallet and passphrase.`
+   Follow the instructions on the screen to set up your wallet and passphrase.
 
 7. Generate wallet addresses:
 
