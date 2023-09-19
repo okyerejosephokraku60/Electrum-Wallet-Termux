@@ -59,14 +59,8 @@ How to create an Electrum financial wallet using Termux.💵💵
 
      Replace `<wallet-version>` with the specific version you want to install (e.g., `electrum==4.4.6`).
 
+CURRENT WALLET VERSION: 4.4.6
 
-👇👇
-     ```python3 -m venv .env 
-  source .env/bin/activ ate   
-     python -m pip install --upgrade pip
-     pip install 4.4.6
-     ```
-👆👆
 
 To create a new Electrum wallet:
      
