@@ -1,4 +1,5 @@
 # Electrum-Wallet-Termux
+
 How to create an Electrum financial wallet using Termux.💵💵
 
 
@@ -42,7 +43,7 @@ git clone https://github.com/spesmilo/electrum.git
    cd <wallet-software-directory>
    `
 
-   Replace <wallet-software-directory> with the directory where the wallet software was cloned.
+   Replace `<wallet-software-directory>` with the directory where the wallet software was cloned.
 
 ```
 cd electrum
@@ -69,7 +70,7 @@ Then
      pip install <wallet-version>`
      
 
-     Replace <wallet-version> with the specific version you want to install (e.g. electrum==4.4.6).
+     Replace `<wallet-version>` with the specific version you want to install (e.g. electrum==4.4.6).
 
 
 ```
