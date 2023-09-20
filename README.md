@@ -77,7 +77,7 @@ Then
      python3 -m venv .env
      source .env/bin/activate
      python -m pip install --upgrade pip
-     pip install <4.4.6>
+     pip install 4.4.6
 ```
 
 To create a new Electrum wallet:
