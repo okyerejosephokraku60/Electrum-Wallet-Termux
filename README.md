@@ -113,3 +113,6 @@ Follow the instructions on the screen to set up your wallet and passphrase.
      Replace `<receiver-address>` with the address of the recipient and `<amount>` with the amount to send.
 
 Remember to refer to the official documentation or relevant resources provided by the specific wallet software you choose for accurate and detailed instructions.
+
+
+![alt-text](/Screenshot_20230921_112443.png)
