@@ -2,6 +2,8 @@
 
 How to create an Electrum financial wallet using Termux.💵💵
 
+ <p align="center"> [Download Electrum](https://electrum.org/#download) </p>
+
 
 Creating a secret financial wallet on Termux involves several steps, which require installing specific software and executing commands. Here is a step-by-step guide:
 
