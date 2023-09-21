@@ -1,5 +1,7 @@
 # Electrum-Wallet-Termux
 
+![alt-text](/Screenshot_20230921_112428.png)
+
 How to create an Electrum financial wallet using Termux.💵💵
 
  <p align="center"> [Download Electrum](https://electrum.org/#download) </p>
